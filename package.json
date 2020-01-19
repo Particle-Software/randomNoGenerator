@@ -1,0 +1,22 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "npm package for a random number generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Particle-Software/randomNoGenerator.git"
+  },
+  "keywords": [
+    "number_generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Particle-Software/randomNoGenerator/issues"
+  },
+  "homepage": "https://github.com/Particle-Software/randomNoGenerator#readme"
+}
